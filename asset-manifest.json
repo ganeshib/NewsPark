@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NewsPark/static/css/main.dc4d6ff2.css",
+    "main.js": "/NewsPark/static/js/main.a1e5701d.js",
+    "static/js/592.d53f2e83.chunk.js": "/NewsPark/static/js/592.d53f2e83.chunk.js",
+    "index.html": "/NewsPark/index.html",
+    "main.dc4d6ff2.css.map": "/NewsPark/static/css/main.dc4d6ff2.css.map",
+    "main.a1e5701d.js.map": "/NewsPark/static/js/main.a1e5701d.js.map",
+    "592.d53f2e83.chunk.js.map": "/NewsPark/static/js/592.d53f2e83.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.a1e5701d.js"
+  ]
+}
